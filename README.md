@@ -1,6 +1,6 @@
 # aqua
 
-A new Flutter project.
+A new Flutter project, a smart water management system that allows user to control home water supply remotely
 
 ## Getting Started
 
