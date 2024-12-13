@@ -14,12 +14,12 @@ Welcome to the **Water Monitor Application**! This Android application empowers 
 
 ## Screenshots
 
-<img src="assets/dashboard.jpg" alt="Dashboard" width="250">
+<img src="assets/dashboard.jpeg" alt="Dashboard" width="250">
 <img src="assets/login.jpeg" alt="Login" width="250">
-<img src="assets/notification.jpg" alt="Notification" width="250">
-<img src="assets/password_reset.jpg" alt="Password_reset" width="250">
-<img src="assets/signup.jpg" alt="Signup" width="250">
-<img src="assets/usage.jpg" alt="Usage" width="250">
+<img src="assets/notification.jpeg" alt="Notification" width="250">
+<img src="assets/password_reset.jpeg" alt="Password_reset" width="250">
+<img src="assets/signup.jpeg" alt="Signup" width="250">
+<img src="assets/usage.jpeg" alt="Usage" width="250">
 
 ---
 
