@@ -14,7 +14,7 @@ Welcome to the **Water Monitor Application**! This Android application empowers 
 
 ## Screenshots
 
-_Include screenshots or mockups of the application interface to help users understand its functionality._
+
 
 ---
 
@@ -51,6 +51,6 @@ _Include screenshots or mockups of the application interface to help users under
 
 ## Technologies Used
 
-- **Android Development**: Kotlin/Java
-- **IoT Integration**: MQTT/HTTP protocols
-- **UI/UX**: Material Design Principles
+- **Android Development**: Flutter/dart
+- **IoT Integration**: NodeMCU
+-
