@@ -53,4 +53,4 @@ Welcome to the **Water Monitor Application**! This Android application empowers 
 
 - **Android Development**: Flutter/dart
 - **IoT Integration**: NodeMCU
--
+
