@@ -1,8 +1,56 @@
-# aqua
-![Screenshot_2024-09-27_103028](https://github.com/user-attachments/assets/a1a3ddb7-6974-4af1-979b-60db7ce1c919)
-![Screenshot_2024-09-27_103040](https://github.com/user-attachments/assets/4711f086-da52-4175-bd86-adf4f8a96bfc)
-![Screenshot_2024-09-27_103044](https://github.com/user-attachments/assets/78b7b1b1-dcb0-46c0-81ce-e51c26c370c6)
-![Screenshot_2024-09-27_103142](https://github.com/user-attachments/assets/aac8dfbc-18be-487b-9536-9524d2735cd0)
+# Water Monitor Application
 
-A new Flutter project, a smart water management system that allows user to control home water supply remotely
+Welcome to the **Water Monitor Application**! This Android application empowers users to remotely control their home water supply with ease. The app comes equipped with features to monitor water levels and manage the water supply either automatically or manually.
 
+---
+
+## Features
+
+- **Auto On/Off Feature**: Automatically control the water supply based on pre-set conditions, such as water levels.
+- **Manual On/Off Feature**: Manually control the water supply with a single tap on your smartphone.
+- **Water Level Monitor**: View real-time updates on water levels directly from the app.
+
+---
+
+## Screenshots
+
+_Include screenshots or mockups of the application interface to help users understand its functionality._
+
+---
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/water-monitor-app.git
+    ```
+
+2. Open the project in Android Studio.
+
+3. Build and run the application on your Android device or emulator.
+
+---
+
+## Usage
+
+1. Connect the application to your home water system (requires IoT integration).
+2. Open the app and navigate to the dashboard.
+3. Use the **Manual Control** to toggle the water supply on/off.
+4. Enable **Auto Mode** to let the app control the supply based on water levels.
+5. Check the **Water Level Monitor** for real-time updates.
+
+---
+
+## Requirements
+
+- Android 6.0 (Marshmallow) or later
+- Active internet connection
+- IoT-enabled water system
+
+---
+
+## Technologies Used
+
+- **Android Development**: Kotlin/Java
+- **IoT Integration**: MQTT/HTTP protocols
+- **UI/UX**: Material Design Principles
